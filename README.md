@@ -1,4 +1,4 @@
-# Setting Up a VPN on a Virtual Machine
+<h1>Setting Up a VPN on a Virtual Machine</h1>
 
 Welcome to this step-by-step guide on setting up a VPN (Virtual Private Network) on a Virtual Machine from scratch! Whether you're enhancing your privacy, bypassing restrictions, or just experimenting with networking, this guide has you covered. Let's get into it.
 
